@@ -1,0 +1,25 @@
+﻿  project.cpp
+C:\Users\Admin\Desktop\22F-3625,22F3720-OOP PROJECT\22F-3625,22F-3720\22F-3625,22F-3720\project.cpp(30,15): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\Desktop\22F-3625,22F3720-OOP PROJECT\22F-3625,22F-3720\22F-3625,22F-3720\project.cpp(207,15): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\Desktop\22F-3625,22F3720-OOP PROJECT\22F-3625,22F-3720\22F-3625,22F-3720\project.cpp(296,15): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\Desktop\22F-3625,22F3720-OOP PROJECT\22F-3625,22F-3720\22F-3625,22F-3720\project.cpp(383,15): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\Desktop\22F-3625,22F3720-OOP PROJECT\22F-3625,22F-3720\22F-3625,22F-3720\project.cpp(443,15): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\Desktop\22F-3625,22F3720-OOP PROJECT\22F-3625,22F-3720\22F-3625,22F-3720\project.cpp(455,20): warning C4101: 'id': unreferenced local variable
+C:\Users\Admin\Desktop\22F-3625,22F3720-OOP PROJECT\22F-3625,22F-3720\22F-3625,22F-3720\project.cpp(457,6): warning C4101: 'marks': unreferenced local variable
+C:\Users\Admin\Desktop\22F-3625,22F3720-OOP PROJECT\22F-3625,22F-3720\22F-3625,22F-3720\project.cpp(500,15): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\Desktop\22F-3625,22F3720-OOP PROJECT\22F-3625,22F-3720\22F-3625,22F-3720\project.cpp(580,15): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\Desktop\22F-3625,22F3720-OOP PROJECT\22F-3625,22F-3720\22F-3625,22F-3720\project.cpp(668,15): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\Desktop\22F-3625,22F3720-OOP PROJECT\22F-3625,22F-3720\22F-3625,22F-3720\project.cpp(724,15): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\Desktop\22F-3625,22F3720-OOP PROJECT\22F-3625,22F-3720\22F-3625,22F-3720\project.cpp(784,15): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\Desktop\22F-3625,22F3720-OOP PROJECT\22F-3625,22F-3720\22F-3625,22F-3720\project.cpp(851,15): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\Desktop\22F-3625,22F3720-OOP PROJECT\22F-3625,22F-3720\22F-3625,22F-3720\project.cpp(899,15): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\Desktop\22F-3625,22F3720-OOP PROJECT\22F-3625,22F-3720\22F-3625,22F-3720\project.cpp(949,15): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\Desktop\22F-3625,22F3720-OOP PROJECT\22F-3625,22F-3720\22F-3625,22F-3720\project.cpp(1005,15): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\Desktop\22F-3625,22F3720-OOP PROJECT\22F-3625,22F-3720\22F-3625,22F-3720\project.cpp(1058,15): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\Desktop\22F-3625,22F3720-OOP PROJECT\22F-3625,22F-3720\22F-3625,22F-3720\project.cpp(1082,7): warning C4101: 'numberLectures': unreferenced local variable
+C:\Users\Admin\Desktop\22F-3625,22F3720-OOP PROJECT\22F-3625,22F-3720\22F-3625,22F-3720\project.cpp(1126,15): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\Desktop\22F-3625,22F3720-OOP PROJECT\22F-3625,22F-3720\22F-3625,22F-3720\project.cpp(1192,15): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\Desktop\22F-3625,22F3720-OOP PROJECT\22F-3625,22F-3720\22F-3625,22F-3720\project.cpp(1242,15): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\Desktop\22F-3625,22F3720-OOP PROJECT\22F-3625,22F-3720\22F-3625,22F-3720\project.cpp(1326,15): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\Desktop\22F-3625,22F3720-OOP PROJECT\22F-3625,22F-3720\22F-3625,22F-3720\project.cpp(1402,15): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  22F-3625,22F-3720.vcxproj -> C:\Users\Admin\Desktop\22F-3625,22F3720-OOP PROJECT\22F-3625,22F-3720\x64\Debug\22F-3625,22F-3720.exe
